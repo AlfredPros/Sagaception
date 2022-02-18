@@ -1,0 +1,29 @@
+﻿#--Attribuition--#
+
+	#Menu Background Cats --> http://getdrawings.com/cat-walking-silhouette#cat-walking-silhouette-24.jpg || (https://clipartart.com/images/back-of-a-cat-clipart-2.png Edited By -Sc4rYSaiyajin-)
+
+	#Welcome Music --> JoJo's Bizarre Adventure: Diamond is Unbreakable OST - Morioh Cho Radio https://www.youtube.com/watch?v=HdahP278OSM
+	
+	#Failsound / Exit Music --> Killer (Yoshikage Kira's Theme) - Jojo's Bizarre Adventure Part 4: Diamond Is Unbreakable https://www.youtube.com/watch?v=9yGGNohmAT0
+
+#--Fonts--#
+
+	#Multicolore --> https://www.dafont.com/multicolore.font
+	
+	#Odin Rounded --> https://www.dafont.com/odin-rounded.font
+
+#--Inspirations--#
+
+	#Ranking Panel --> Komori - NeastroelB (SeVIl) https://skins.osuck.net/index.php?newsid=1100
+
+	#Spinner --> -        # WhiteCat (1.0) 『CK』 #- https://skins.osuck.net/index.php?newsid=1107
+
+#--Colors--#
+
+	#e1e1e1 White bg color
+
+	#68a8e9 Blue accent
+
+	#212128 Purple
+
+#--Aesthetic elements made by -Sc4rYSaiyajin- with creative help from bloo--#
